@@ -52,10 +52,6 @@
 
 ###
 
-<img src="https://github.com/RPX31/RPX31/blob/main/snake.yml" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/RPX31/count.svg?"  />
 </div>
