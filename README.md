@@ -52,7 +52,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/RPX31/RPX31/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/RPX31/RPX31/blob/main/snake.yml" alt="Snake animation" />
 
 ###
 
